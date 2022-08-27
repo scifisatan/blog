@@ -1,4 +1,4 @@
-name: Abi Shrestha
+name: Welcome to my blog <3
 enableToc: true
 openToc: true
 enableLinkPreview: false
@@ -11,7 +11,7 @@ enableFooter: false
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/scifisatan/blog
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
