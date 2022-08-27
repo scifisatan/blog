@@ -1,13 +1,13 @@
-name: Jacky Zhao
+name: Abi Shrestha
 enableToc: true
-openToc: false
-enableLinkPreview: true
+openToc: true
+enableLinkPreview: false
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: true
+enableFooter: false
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
@@ -15,12 +15,11 @@ GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  I definiely am someone lol
 page_title:
-  "🪴 Quartz 3.2"
+  "Abi Shrestha"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/39abii_
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/scifisatan
