@@ -1,8 +1,6 @@
 ---
 title: "Words"
 ---
-![](https://39abiii.files.wordpress.com/2021/06/raphael-schaller-gkincd2eniy-unsplash.jpg)
-
 Sometimes the words said by other person sticks in my brain
 
 Sometimes it reminds me of my insecurities  
