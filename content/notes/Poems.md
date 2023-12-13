@@ -14,3 +14,4 @@ title: "Poems"
 - [Delusional](notes/Poems/Delusional.md)
 - [Hollow](notes/Poems/Hollow.md)
 - [At-last](notes/Poems/At-last.md)
+- [New Chapter](notes/Poems/new-chapter.md)

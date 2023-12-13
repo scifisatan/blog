@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: false
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 GitHubLink: https://github.com/scifisatan/blog
 enableSemanticSearch: false
